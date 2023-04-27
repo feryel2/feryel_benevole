@@ -1,0 +1,12 @@
+INPUT(
+./debug\arduino.o
+./debug\benevole.o
+./debug\login.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\connection.o
+./debug\menu.o
+./debug\moc_login.o
+./debug\moc_mainwindow.o
+./debug\moc_menu.o
+);
